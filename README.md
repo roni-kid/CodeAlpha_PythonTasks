@@ -8,9 +8,10 @@ Three Python tasks completed as part of the **CodeAlpha Python Programming Inter
 
 | # | Task | Folder |
 |---|------|--------|
-| 1 | Hangman Game | `task1_hangman/` |
-| 2 | Stock Portfolio Tracker | `task2_stock_tracker/` |
-| 4 | Basic Chatbot | `task4_chatbot/` |
+| 1 | Basic Chatbot | `task1_chatbot/` |
+| 2 | Hangman Game | `task2_hangman/` |
+| 3 | Stock Portfolio Tracker | `task3_stock_tracker/` |
+
 
 ---
 
@@ -19,14 +20,14 @@ Three Python tasks completed as part of the **CodeAlpha Python Programming Inter
 Requires **Python 3.8+**. No external libraries needed.
 
 ```bash
-# Task 1 — Hangman
-python task1_hangman/hangman.py
+# Task 1 — Chatbot
+python task1_chatbot/chatbot.py
 
-# Task 2 — Stock Portfolio Tracker
-python task2_stock_tracker/stock_tracker.py
+# Task 2 — Hangman
+python task2_hangman/hangman.py
 
-# Task 4 — Chatbot
-python task4_chatbot/chatbot.py
+# Task 3 — Stock Portfolio Tracker
+python task3_stock_tracker/stock_tracker.py
 ```
 
 ---
